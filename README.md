@@ -12,8 +12,8 @@ The samrt contract was tested on Ropsten network. The Address is: 0xEB65ceec0e5A
 
 >Truffle v5.1.20 (core: 5.1.20)
 
-Solidity - 0.6.6 (solc-js)
+>Solidity - 0.6.6 (solc-js)
 
-Node v10.20.1
+>Node v10.20.1
 
-Web3.js v1.2.1
+>Web3.js v1.2.1
